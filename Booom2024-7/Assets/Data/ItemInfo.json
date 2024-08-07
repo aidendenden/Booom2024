@@ -1,0 +1,156 @@
+{
+    "dataType":"Items",
+    "Items":[
+        {"id" : 1,
+        "ItemName":"破损的机器内胆",
+        "ItemEnglishName":"MachineCore",
+        "ItemType":"Synthetic",
+        "ItemDescribe":"",
+        "SpritePath":"Art/Sprites/Items/MachineCore"
+        },
+        {"id" : 2,
+        "ItemName":"水晶球",
+        "ItemEnglishName":"CrystalBall",
+        "ItemType":"Synthetic",
+        "ItemDescribe":"",
+        "SpritePath":"Art/Sprites/Items/CrystalBall"
+        }
+        ,
+        {"id" : 3,
+        "ItemName":"机油",
+        "ItemEnglishName":"EngineOil",
+        "ItemType":"Synthetic",
+        "ItemDescribe":"",
+        "SpritePath":"Art/Sprites/Items/EngineOil"
+        }
+        ,
+        {"id" : 4,
+        "ItemName":"雨水",
+        "ItemEnglishName":"RainWater",
+        "ItemType":"Synthetic",
+        "ItemDescribe":"",
+        "SpritePath":"Art/Sprites/Items/RainWater"
+        }
+        ,
+        {"id" : 5,
+        "ItemName":"难以扑灭的怪火",
+        "ItemEnglishName":"StrangeFire",
+        "ItemType":"Synthetic",
+        "ItemDescribe":"",
+        "SpritePath":"Art/Sprites/Items/StrangeFire"
+        }
+        ,
+        {"id" : 6,
+        "ItemName":"合金",
+        "ItemEnglishName":"Alloys",
+        "ItemType":"Synthetic",
+        "ItemDescribe":"",
+        "SpritePath":"Art/Sprites/Items/Alloys"
+        }
+        ,
+        {"id" : 7,
+        "ItemName":"液体?固体?",
+        "ItemEnglishName":"FluidsOrSolid",
+        "ItemType":"Synthetic",
+        "ItemDescribe":"",
+        "SpritePath":"Art/Sprites/Items/FluidsOrSolid"
+        }
+        ,
+        {"id" : 8,
+        "ItemName":"人台",
+        "ItemEnglishName":"Mannequin",
+        "ItemType":"Synthetic",
+        "ItemDescribe":"",
+        "SpritePath":"Art/Sprites/Items/Mannequin"
+        }
+        ,
+        {"id" : 9,
+        "ItemName":"断指",
+        "ItemEnglishName":"BrokenFinger",
+        "ItemType":"Synthetic",
+        "ItemDescribe":"",
+        "SpritePath":"Art/Sprites/Items/BrokenFinger"
+        }
+        ,
+        {"id" : 10,
+        "ItemName":"神秘毛发",
+        "ItemEnglishName":"MysteryHair",
+        "ItemType":"Synthetic",
+        "ItemDescribe":"",
+        "SpritePath":"Art/Sprites/Items/MysteryHair"
+        }
+        ,
+        {"id" : 11,
+        "ItemName":"历史节点合照",
+        "ItemEnglishName":"HistoricalPic",
+        "ItemType":"Synthetic",
+        "ItemDescribe":"",
+        "SpritePath":"Art/Sprites/Items/HistoricalPic"
+        }
+        ,
+        {"id" : 12,
+        "ItemName":"和兰的合照",
+        "ItemEnglishName":"PicWithLan",
+        "ItemType":"Synthetic",
+        "ItemDescribe":"",
+        "SpritePath":"Art/Sprites/Items/PicWithLan"
+        }
+        ,
+        {"id" : 13,
+        "ItemName":"一堆骨头",
+        "ItemEnglishName":"Bones",
+        "ItemType":"Synthetic",
+        "ItemDescribe":"",
+        "SpritePath":"Art/Sprites/Items/Bones"
+        }
+        ,
+        {"id" : 14,
+        "ItemName":"一只拖鞋",
+        "ItemEnglishName":"Slipper",
+        "ItemType":"Synthetic",
+        "ItemDescribe":"",
+        "SpritePath":"Art/Sprites/Items/Slipper"
+        }
+        ,
+        {"id" : 15,
+        "ItemName":"半袋面包",
+        "ItemEnglishName":"HalfBagBread",
+        "ItemType":"Synthetic",
+        "ItemDescribe":"",
+        "SpritePath":"Art/Sprites/Items/HalfBagBread"
+        }
+        ,
+        {"id" : 16,
+        "ItemName":"一堆碎石",
+        "ItemEnglishName":"BrokenRock",
+        "ItemType":"Synthetic",
+        "ItemDescribe":"",
+        "SpritePath":"Art/Sprites/Items/BrokenRock"
+        }
+        ,
+        {"id" : 17,
+        "ItemName":"花瓶",
+        "ItemEnglishName":"Vase",
+        "ItemType":"Interactive",
+        "ItemDescribe":"",
+        "SpritePath":"Art/Sprites/Items/Vase"
+        }
+        ,
+        {"id" : 18,
+        "ItemName":"火柴",
+        "ItemEnglishName":"Firewood",
+        "ItemType":"Interactive",
+        "ItemDescribe":"",
+        "SpritePath":"Art/Sprites/Items/Firewood"
+        }
+        ,
+        {"id" : 19,
+        "ItemName":"螺丝刀",
+        "ItemEnglishName":"Screwdriver",
+        "ItemType":"Interactive",
+        "ItemDescribe":"",
+        "SpritePath":"Art/Sprites/Items/Screwdriver"
+        }
+
+    ]
+}

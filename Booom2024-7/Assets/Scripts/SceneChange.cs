@@ -26,10 +26,10 @@ public class SceneChange : MonoBehaviour
         //backImage.GetComponent<RectTransform>().position = new Vector3(0,0,0);
 
         name = SceneManager.GetActiveScene().name;
-        Debug.Log(name);
+        // Debug.Log(name);
         name = name.Substring(name.Length-1,1);
         num = int.Parse(name);
-        Debug.Log(num);
+        // Debug.Log(num);
         if(num == 1){
             button = transform.Find("LeftScene");
             button.GetComponent<Image>().enabled = false;
