@@ -3,13 +3,3 @@ Booom2024-7/Temp
 *.sln
 Booom2024-7/Logs
 Booom2024-7/Library
-Booom2024-7/.vscode/extensions.json
-Booom2024-7/.vscode/launch.json
-Booom2024-7/.vscode/settings.json
-Booom2024-7/Packages/manifest.json
-Booom2024-7/Packages/packages-lock.json
-Booom2024-7/ProjectSettings/EditorBuildSettings.asset
-Booom2024-7/ProjectSettings/ProjectSettings.asset
-Booom2024-7/ProjectSettings/SceneTemplateSettings.json
-Booom2024-7/ProjectSettings/TagManager.asset
-Booom2024-7/Assembly-CSharp.csproj
