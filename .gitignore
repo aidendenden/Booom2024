@@ -3,3 +3,5 @@ Booom2024-7/Temp
 *.sln
 Booom2024-7/Logs
 Booom2024-7/Library
+*.csproj
+*.vsconfig
